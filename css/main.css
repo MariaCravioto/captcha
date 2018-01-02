@@ -1,0 +1,21 @@
+body{
+
+}
+
+
+font{
+   color:#DD0000;
+   }
+
+   #txtCaptchaDiv{
+     background-color:#A51D22;
+     color:#FFF;
+     padding:5px;
+   }
+
+#txtCaptcha{
+
+}
+#input{
+   size:15;
+ }
